@@ -14,4 +14,5 @@ The pipeline follows these main steps:
 
 ## How to run
 1. Add your `GEMINI_API_KEY` as an environment variable.
-2. Run `python src/main.py`
+2. Run `uv pip sync` to update your lock file with the exact versions of the packages.
+3. Run `python src/main.py`
