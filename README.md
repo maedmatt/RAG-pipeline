@@ -37,5 +37,5 @@ The pipeline follows these main steps:
 
 3.  **Run the script:**
     ```bash
-    python src/main.py
+    uv run main.py
     ```
