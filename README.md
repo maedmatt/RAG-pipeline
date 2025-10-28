@@ -29,7 +29,7 @@ The pipeline follows these main steps:
     -   Make sure you have Python 3.12+ and `uv` installed.
     -   Install the dependencies:
         ```bash
-        uv pip sync pyproject.toml
+        uv sync
         ```
 
 2.  **Set your API Key:**
